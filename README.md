@@ -14,7 +14,7 @@
 ---
 
 ### 🔍 Sobre Mí
-Soy estudiante de Ingeniería en Tecnologías de la Información en la Universidad Tecnológica de Tabasco, especializado en **Seguridad Defensiva (Blue Team)**, redes y automatización. Me apasiona proteger infraestructuras, analizar tráfico de red y construir entornos seguros. 
+Estudiante de ciberseguridad con un enfoque practico y orientado a laboratorios en operaciones de Equipo Azul, monitoreo de amenazas y defensa de redes. Me apasiona proteger infraestructuras, analizar tráfico de red y construir entornos seguros. 
 
 Tengo experiencia práctica desplegando soluciones **SIEM (Elastic Stack)**, analizando incidentes bajo el marco **NIST CSF**, y administrando infraestructuras de red y firewalls (FortiGate, Cisco). Mi objetivo es aportar valor técnico real en centros de operaciones de seguridad (SOC) y equipos de defensa corporativa.
 
@@ -48,13 +48,12 @@ Tengo experiencia práctica desplegando soluciones **SIEM (Elastic Stack)**, ana
 
 ---
 
-### 🏆 Certificaciones
+### 🏆 Certificados y conocimientos
 
 * **Cisco Networking Academy:** CyberOps Associate
 * **Cisco Networking Academy:** CCNA (Enterprise Networking, Security & Automation)
 * **Cisco Networking Academy:** DevNet Associate
 * **Google / Coursera:** IT Support Professional Certificate
-* ⏳ *En Progreso:* Google Cybersecurity Professional | Fortinet Certified Associate (FCA)
 
 ---
 
