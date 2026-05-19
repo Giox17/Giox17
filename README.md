@@ -68,6 +68,6 @@ Tengo experiencia práctica desplegando soluciones **SIEM (Elastic Stack)**, ana
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giox17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Giox17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giox17&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
