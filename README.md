@@ -20,7 +20,7 @@ Tengo experiencia práctica desplegando soluciones **SIEM (Elastic Stack)**, ana
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+### 🛠️ Tecnologías
 
 **Seguridad Defensiva (Blue Team) & Networking**
 <p>
@@ -48,20 +48,19 @@ Tengo experiencia práctica desplegando soluciones **SIEM (Elastic Stack)**, ana
 
 ---
 
-### 🏆 Certificados y conocimientos
+### 🏆 Certificaciones
 
-* **Cisco Networking Academy:** CyberOps Associate
-* **Cisco Networking Academy:** CCNA (Enterprise Networking, Security & Automation)
-* **Cisco Networking Academy:** DevNet Associate
-* **Google / Coursera:** IT Support Professional Certificate
+* CyberOps Associate
+* CCNA (Enterprise Networking, Security & Automation)
+* DevNet Associate
+* IT Support Professional Certificate
+* Fortinet NSE 3 Certified in Cybersecurity
 
 ---
 
 ### 📂 Proyectos Destacados
 
 * [**Elastic-SIEM-Lab**](https://github.com/Giox17/Elastic-SIEM-Lab): Despliegue de un entorno de monitoreo centralizado con Elastic SIEM en la nube. Configuración de agentes Auditbeat, reglas de detección y simulaciones de ataque Red Team (Persistencia, DNS Spoofing) para validar capacidades defensivas.
-* **Análisis de Incidentes (NIST CSF):** Análisis de tráfico malicioso con `tcpdump` y redacción de reportes técnicos aplicando las 5 fases del marco NIST CSF.
-* **Automatización de Redes (Python + GNS3):** Scripting en Python para el despliegue automático de configuraciones (OSPF, EIGRP) y firewalls FortiGate v8.0 segmentando redes mediante VLANs.
 
 ---
 
